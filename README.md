@@ -1,5 +1,6 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Good to see you 🤗&fontSize=70&fontAlignY=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+
 
 ## 👋 Hello
 I'm currently diving deep into **Reverse Engineering** while also studying **TypeScript**.  
